@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AboutDialog" parent="@android:style/Theme.Dialog">
+    </style>
+    <color name="colorPrimary">#F44336</color>
+    <color name="colorPrimaryDark">#FF6347</color>
+    <color name="colorAccent">#F44336</color>
+    <color name="grey">#A9A9A9</color>
+
+</resources>
